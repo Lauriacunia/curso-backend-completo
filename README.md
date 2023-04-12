@@ -3,5 +3,5 @@
 ejercicios vistos en clase del curso de backend de la plataforma coderhouse
 cada carpeta corresponse a una clase vista.
 
-Profesor: Santiago Bernal
-Tutora: Laura Acuña
+- Profesor: Santiago Bernal
+- Tutora: Laura Acuña
